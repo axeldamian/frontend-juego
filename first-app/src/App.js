@@ -1,13 +1,16 @@
-import logo from './logo.svg';
 import './App.css';
+import Welcome from './components/Welcome';
+import logo from './logo.svg';
 
 function App() {
   return (
+    <div>
+        <Welcome name="axel" />
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload and nube.
         </p>
         <a
           className="App-link"
@@ -18,6 +21,7 @@ function App() {
           Learn React
         </a>
       </header>
+    </div>
     </div>
   );
 }
