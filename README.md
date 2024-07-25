@@ -36,3 +36,28 @@ El scripts de package.json queda así:
     "deploy" : "gh-pages -d build"
   },
 ```
+
+instalar 2 dependencias "react-scripts" y "gh-pages"
+
+
+React-scripts
+```
+npm install react-scripts --save
+```
+
+Gh-pages
+```
+npm install gh-pages --save-dev
+```
+
+Cuando ejecutamos npm run deploy se crea un branch llamado gh-pages si no esta creado
+y se muestran cambios en https://axeldamian.github.io/frontend-juego/
+```
+username.github.io/repositio-name
+```
+
+Localmente debemos ejecutar, para visualizar cambios localmente:
+```
+npm run start
+```
+se abre el navegador con localhost:3000 allí se ven los cambios
