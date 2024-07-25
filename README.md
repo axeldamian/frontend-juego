@@ -1,6 +1,6 @@
 ## Descripción
 
-Crear proyecto react
+Crear proyecto react, tener instalado node.js y npm
 ```
 npx create-react-app <my-app-name>
 ```
