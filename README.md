@@ -53,7 +53,7 @@ npm install gh-pages --save-dev
 Cuando ejecutamos npm run deploy se crea un branch llamado gh-pages si no esta creado
 y se muestran cambios en https://axeldamian.github.io/frontend-juego/
 ```
-username.github.io/repositio-name
+https://username.github.io/repositorio-name
 ```
 
 Localmente debemos ejecutar, para visualizar cambios localmente:
