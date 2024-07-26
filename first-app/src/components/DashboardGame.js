@@ -1,50 +1,47 @@
 import React from 'react';
-import './SymbolBlue.css';
-import './SymbolPink.css';
-import './SymbolRed.css';
-import './SymbolViolet.css';
+import './Symbol.css';
+import Symbols from './Symbols.js';
 
   const DashboardGame = () => {
     return (
         <div style={{ width:"35%", height: "300px"}} >
-           
-            <div className='SymbolRed' >
-                ▲
+
+            <div className='Symbol ColorRed' >
+                {Symbols.CIRCLE_BLUE.SYMBOL}
             </div>
 
-            <div className='SymbolBlue' >
-                ●
+            <div className='Symbol ColorViolet' >
+                {Symbols.CIRCLE_BLUE.SYMBOL}
             </div>
             
-            <div className='SymbolPink' >
-                ■
+            <div className='Symbol ColorPink' >
+                {Symbols.CIRCLE_PINK.SYMBOL}
             </div>
 
-
-            <div className='SymbolViolet' >
-                ▲
+            <div className='Symbol ColorViolet' >
+                {Symbols.TRIANGLE_VIOLET.SYMBOL}
             </div>
 
-            <div className='SymbolBlue' >
-                ●
+            <div className='Symbol ColorBlue' >
+                {Symbols.CIRCLE_BLUE.SYMBOL}
             </div>
             
-            <div className='SymbolPink' >
-                ■
+            <div className='Symbol ColorPink' >
+                {Symbols.SQUARE_PINK.SYMBOL}
             </div>
 
-                      
-            <div className='SymbolRed' >
-                ▲
+
+            <div className='Symbol ColorRed' >
+                {Symbols.TRIANGLE_RED.SYMBOL}
             </div>
 
-                       
-            <div className='SymbolViolet' >
-                ●
+
+            <div className='Symbol ColorViolet' >
+                {Symbols.CIRCLE_VIOLET.SYMBOL}
             </div>
             
-            <div className='SymbolBlue' >
-                ■
+            <div className='Symbol ColorBlue' >
+                {Symbols.SQUARE_BLUE.SYMBOL}
             </div>
 
         </div>

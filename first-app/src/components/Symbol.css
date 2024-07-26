@@ -1,6 +1,21 @@
-.SymbolViolet {
+.ColorRed {
+  color: #e90c0c;
+}
+
+.ColorViolet {
+  color: #7e0ce9;
+}
+
+.ColorBlue {
+  color: #0e0aef;
+}
+
+.ColorPink {
+  color: #f70ea2;
+}
+
+.Symbol {
     padding-bottom: 50px;
-    color: #d10fef;
     text-align: center;
     font-size: 80px;
     width: 20%;
