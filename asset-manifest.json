@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/frontend-juego/static/css/main.455d376e.css",
-    "main.js": "/frontend-juego/static/js/main.7571afcb.js",
+    "main.css": "/frontend-juego/static/css/main.a2cd49e1.css",
+    "main.js": "/frontend-juego/static/js/main.8a9571af.js",
     "static/js/453.ae270511.chunk.js": "/frontend-juego/static/js/453.ae270511.chunk.js",
-    "static/media/logo.svg": "/frontend-juego/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/frontend-juego/index.html",
-    "main.455d376e.css.map": "/frontend-juego/static/css/main.455d376e.css.map",
-    "main.7571afcb.js.map": "/frontend-juego/static/js/main.7571afcb.js.map",
+    "main.a2cd49e1.css.map": "/frontend-juego/static/css/main.a2cd49e1.css.map",
+    "main.8a9571af.js.map": "/frontend-juego/static/js/main.8a9571af.js.map",
     "453.ae270511.chunk.js.map": "/frontend-juego/static/js/453.ae270511.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.455d376e.css",
-    "static/js/main.7571afcb.js"
+    "static/css/main.a2cd49e1.css",
+    "static/js/main.8a9571af.js"
   ]
 }
